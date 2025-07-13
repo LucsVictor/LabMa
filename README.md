@@ -1,6 +1,6 @@
-# storemanage
+# 名称
 
-实验室耗材管理软件，pc端
+实验室耗材管理PC端
 
 ## Recommended IDE Setup
 
