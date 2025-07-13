@@ -1,6 +1,6 @@
 # storemanage
 
-An Electron application with Vue
+实验室耗材管理软件，pc端
 
 ## Recommended IDE Setup
 
@@ -32,3 +32,7 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+### 您的支持是我持续开源的动力
+<p align="center">
+  <img src="img.png" alt="" width="300" />
+</p>
